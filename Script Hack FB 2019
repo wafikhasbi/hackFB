@@ -1,0 +1,8 @@
+1. apt update && apt upgrade
+2. apt install python2
+3. pip2 install requests mechanize
+4. apt install git
+5. git clone https://github.com/CiKu370/OSIF.git
+6. cd OSIF
+7. pip2 install -r requirements.txt
+8. python2 osif.py
